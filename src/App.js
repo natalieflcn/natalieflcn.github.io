@@ -9,13 +9,13 @@ function App() {
         <p>
           My name is Natalie Falcon and I'm going to master React! 
         </p>
-        <a
+        <a 
           className="App-link"
           href="https://github.com/natalieflcn"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My Github Link 
         </a>
       </header>
     </div>
